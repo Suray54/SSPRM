@@ -1,0 +1,41 @@
+.contact-banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6% 25%;
+  @media only screen and (max-width: 650px) {
+    padding: 6% 10%;
+  }
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 30px;
+  background-color: var(--secondary);
+  color: var(--color-white);
+  h3 {
+    font-size: 28px;
+    font-weight: 300;
+    margin-bottom: 30px;
+  }
+  p {
+    font-weight: 300;
+    margin-bottom: 40px;
+  }
+  button {
+    padding: 12px 30px;
+    background-color: transparent;
+    border: 2px solid var(--color-white);
+    &:hover {
+      background-color: var(--color-white);
+    }
+    &:hover .contact-banner__link {
+      color: var(--secondary);
+      text-decoration: none;
+    }
+  }
+
+  &__link {
+    color: var(--color-white);
+    font-weight: 700;
+  }
+}
