@@ -17,7 +17,7 @@
       color: var(--color-white);
       line-height: 3rem;
       position: relative;
-      &.active,
+
       &:hover {
         color: var(--secondary);
         transition: 0.5s;
@@ -27,6 +27,9 @@
         }
       }
       &::before {
+        @media only screen and (max-width: 770px) {
+          border: none;
+        }
         content: "";
         bottom: 0;
         left: 10%;

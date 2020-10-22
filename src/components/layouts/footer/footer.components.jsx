@@ -58,19 +58,29 @@ export class Footer extends Component {
             <h3>Quick Links</h3>
             <ul>
               <li>
-                <Link className="footer__details--links">Home</Link>
+                <Link className="footer__details--links" to="/">
+                  Home
+                </Link>
               </li>
               <li>
-                <Link className="footer__details--links">About</Link>
+                <Link className="footer__details--links" to="/about">
+                  About
+                </Link>
               </li>
               <li>
-                <Link className="footer__details--links">Services</Link>
+                <Link className="footer__details--links" to="/services">
+                  Services
+                </Link>
               </li>
               <li>
-                <Link className="footer__details--links">Portfolio</Link>
+                <Link className="footer__details--links" to="portfolio">
+                  Portfolio
+                </Link>
               </li>
               <li>
-                <Link className="footer__details--links">Contact</Link>
+                <Link className="footer__details--links" to="contact">
+                  Contact
+                </Link>
               </li>
             </ul>
           </div>

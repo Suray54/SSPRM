@@ -3,11 +3,12 @@ import { Link } from "react-router-dom";
 import logo from "./../../../assets/SSPRM NEON-main.png";
 import "./nav.styles.scss";
 import "./nav.js";
+
 export class Navigation extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg fixed-top">
+        <nav className="navbar navbar-expand-md fixed-top">
           <Link className="navbar-brand" to="/">
             <img src={logo} alt="logo" />
           </Link>
@@ -17,7 +18,7 @@ export class Navigation extends Component {
             data-toggle="collapse"
             data-target="#collapsibleNavbar"
           >
-            <i class="fa fa-bars" aria-hidden="true"></i>
+            <i className="fa fa-bars" aria-hidden="true"></i>
           </button>
           <div className="collapse navbar-collapse" id="collapsibleNavbar">
             <ul className="navbar-nav  ml-auto">
@@ -27,22 +28,22 @@ export class Navigation extends Component {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <Link className="nav-link" to="/about">
                   About
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <Link className="nav-link" to="/services">
                   Services
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <Link className="nav-link" to="/portfolio">
                   Portfolio
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <Link className="nav-link" to="/contact">
                   Contact
                 </Link>
               </li>
