@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/SSPRM/static/css/main.4aa86b0c.chunk.css",
-    "main.js": "/SSPRM/static/js/main.bb23fc75.chunk.js",
-    "main.js.map": "/SSPRM/static/js/main.bb23fc75.chunk.js.map",
+    "main.css": "/SSPRM/static/css/main.95303961.chunk.css",
+    "main.js": "/SSPRM/static/js/main.8dff40e2.chunk.js",
+    "main.js.map": "/SSPRM/static/js/main.8dff40e2.chunk.js.map",
     "runtime-main.js": "/SSPRM/static/js/runtime-main.693ab325.js",
     "runtime-main.js.map": "/SSPRM/static/js/runtime-main.693ab325.js.map",
-    "static/js/2.68d3162d.chunk.js": "/SSPRM/static/js/2.68d3162d.chunk.js",
-    "static/js/2.68d3162d.chunk.js.map": "/SSPRM/static/js/2.68d3162d.chunk.js.map",
+    "static/js/2.a444f90d.chunk.js": "/SSPRM/static/js/2.a444f90d.chunk.js",
+    "static/js/2.a444f90d.chunk.js.map": "/SSPRM/static/js/2.a444f90d.chunk.js.map",
     "index.html": "/SSPRM/index.html",
-    "precache-manifest.22fad02033ff19b27b7f4a1ee4cebf36.js": "/SSPRM/precache-manifest.22fad02033ff19b27b7f4a1ee4cebf36.js",
+    "precache-manifest.e0e5ba649308adde4744a200a005f6f5.js": "/SSPRM/precache-manifest.e0e5ba649308adde4744a200a005f6f5.js",
     "service-worker.js": "/SSPRM/service-worker.js",
-    "static/css/main.4aa86b0c.chunk.css.map": "/SSPRM/static/css/main.4aa86b0c.chunk.css.map",
-    "static/js/2.68d3162d.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.68d3162d.chunk.js.LICENSE.txt",
+    "static/css/main.95303961.chunk.css.map": "/SSPRM/static/css/main.95303961.chunk.css.map",
+    "static/js/2.a444f90d.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.a444f90d.chunk.js.LICENSE.txt",
     "static/media/SSPRM NEON-main.png": "/SSPRM/static/media/SSPRM NEON-main.05fa3367.png",
-    "static/media/about-section.jpg": "/SSPRM/static/media/about-section.a3ede171.jpg",
+    "static/media/about-section.webp": "/SSPRM/static/media/about-section.7ee555a3.webp",
     "static/media/back.webp": "/SSPRM/static/media/back.5f5060be.webp",
-    "static/media/back.jpg": "/SSPRM/static/media/back.811e9593.jpg",
+    "static/media/dark-back.webp": "/SSPRM/static/media/dark-back.083985ac.webp",
     "static/media/dark.webp": "/SSPRM/static/media/dark.e0025fa6.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.693ab325.js",
-    "static/js/2.68d3162d.chunk.js",
-    "static/css/main.4aa86b0c.chunk.css",
-    "static/js/main.bb23fc75.chunk.js"
+    "static/js/2.a444f90d.chunk.js",
+    "static/css/main.95303961.chunk.css",
+    "static/js/main.8dff40e2.chunk.js"
   ]
 }
