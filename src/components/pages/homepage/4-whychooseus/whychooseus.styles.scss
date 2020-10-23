@@ -1,9 +1,10 @@
 .whychooseus {
+  & .no-space {
+    padding: 0;
+    margin: 0;
+  }
   &__details {
     padding: 60px 80px 60px 60px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 
     h2 {
       font-size: 24px;
@@ -34,19 +35,10 @@
       color: var(--secondary);
       margin-right: 5px;
     }
-    ul {
-      li {
-        display: flex;
-        align-items: center;
-        font-size: 16px;
-        color: var(--color-grey);
-        font-weight: 300;
-      }
-    }
   }
   &__background {
     background-size: cover;
-    background-position: center;
+    background-position: left;
     background-color: var(--primary);
   }
 }

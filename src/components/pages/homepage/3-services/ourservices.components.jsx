@@ -11,7 +11,7 @@ function OurServices() {
         <h2>What we offer</h2>
       </div>
       <div className="row">
-        <div className="col-lg-4 no-space">
+        <div className="col-lg-4 ">
           <div className="services__details">
             <span className="services__details--icon">
               <FiMonitor />
@@ -29,7 +29,7 @@ function OurServices() {
             </Link>
           </div>
         </div>
-        <div className="col-lg-4  no-space">
+        <div className="col-lg-4 ">
           <div className="services__details">
             <span className="services__details--icon">
               <BsPhone />
@@ -45,7 +45,7 @@ function OurServices() {
             </Link>
           </div>
         </div>
-        <div className="col-lg-4 no-space">
+        <div className="col-lg-4">
           <div className="services__details">
             <span className="services__details--icon">
               <DiPhotoshop />
