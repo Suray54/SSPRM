@@ -1,10 +1,10 @@
 import React from "react";
-
+import banner from "./../../../../assets/back.jpg";
 const HeadingBannerPortfolio = () => {
   return (
     <div
       className="headingbanner"
-      //style={{ backgroundImage: `url(${banner})` }}
+      style={{ backgroundImage: `url(${banner})` }}
     >
       <h1>Our Portfolio</h1>
       <p>

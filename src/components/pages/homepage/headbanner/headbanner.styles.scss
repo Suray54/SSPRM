@@ -1,7 +1,68 @@
 .headbanner {
-  height: 88vh;
+  height: 100vh;
   width: 100%;
   background-size: cover;
   background-position: center;
   background-color: black;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  &::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(20, 15, 15, 0.5);
+  }
+
+  &__details {
+    padding: 0 20px;
+    z-index: 1000;
+    width: 800px;
+    color: var(--color-white);
+    h1 {
+      @media only screen and (max-width: 650px) {
+        font-size: 30px;
+      }
+      color: var(--secondary);
+      text-transform: capitalize;
+      font-size: 60px;
+      font-weight: 900;
+      margin-bottom: 30px;
+    }
+    p {
+      @media only screen and (max-width: 650px) {
+        font-size: 14px;
+      }
+      font-size: 18px;
+      font-weight: 500;
+      margin-bottom: 40px;
+    }
+    &--link {
+      outline: none;
+      padding: 14px 30px;
+      background-color: transparent;
+      color: var(--color-white);
+      font-size: 16px;
+      font-weight: 900;
+      text-transform: uppercase;
+      border: 2px solid var(--color-white);
+
+      span {
+        font-size: 20px;
+        margin-left: 10px;
+      }
+      &:hover {
+        background-color: var(--secondary);
+        border: 2px solid var(--secondary);
+        color: var(--white);
+        text-decoration: none;
+      }
+    }
+  }
 }

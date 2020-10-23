@@ -17,7 +17,7 @@ export class Footer extends Component {
             </p>
             <div className="footer__details--social">
               <a
-                href="https://www.facebook.com/suranjan.rai.12"
+                href="https://www.facebook.com/SSPRM-101597375062586"
                 rel="nofollow"
                 className="footer__details--social-1"
               >
@@ -51,7 +51,7 @@ export class Footer extends Component {
             </p>
             <p>
               <span className="main">Email:</span>
-              <span className="main-details">SSPRM@gmail.com</span>
+              <span className="main-details">info.ssprm@gmail.com</span>
             </p>
           </div>
           <div className="col-lg-3 footer__details">

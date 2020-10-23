@@ -4,6 +4,7 @@ import Footer from "../../layouts/footer/footer.components";
 import Navigation from "../../layouts/nav/nav.components";
 import "./about.styles.scss";
 import HeadingBannerAbout from "./heading-banner/heading-banner.components";
+
 export class About extends Component {
   render() {
     return (
