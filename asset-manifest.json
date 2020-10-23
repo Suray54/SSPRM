@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SSPRM/static/css/main.dd0e6258.chunk.css",
+    "main.css": "/SSPRM/static/css/main.1e02775f.chunk.css",
     "main.js": "/SSPRM/static/js/main.0903e057.chunk.js",
     "main.js.map": "/SSPRM/static/js/main.0903e057.chunk.js.map",
     "runtime-main.js": "/SSPRM/static/js/runtime-main.693ab325.js",
@@ -8,9 +8,9 @@
     "static/js/2.57aafa64.chunk.js": "/SSPRM/static/js/2.57aafa64.chunk.js",
     "static/js/2.57aafa64.chunk.js.map": "/SSPRM/static/js/2.57aafa64.chunk.js.map",
     "index.html": "/SSPRM/index.html",
-    "precache-manifest.67e9aa63cf81f322dcc9fd1e0ebc2c3c.js": "/SSPRM/precache-manifest.67e9aa63cf81f322dcc9fd1e0ebc2c3c.js",
+    "precache-manifest.a0547320f99ae2ae8e7099271e4ddafd.js": "/SSPRM/precache-manifest.a0547320f99ae2ae8e7099271e4ddafd.js",
     "service-worker.js": "/SSPRM/service-worker.js",
-    "static/css/main.dd0e6258.chunk.css.map": "/SSPRM/static/css/main.dd0e6258.chunk.css.map",
+    "static/css/main.1e02775f.chunk.css.map": "/SSPRM/static/css/main.1e02775f.chunk.css.map",
     "static/js/2.57aafa64.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.57aafa64.chunk.js.LICENSE.txt",
     "static/media/SSPRM NEON.png": "/SSPRM/static/media/SSPRM NEON.e9a55ec1.png",
     "static/media/about-section.webp": "/SSPRM/static/media/about-section.7ee555a3.webp",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.693ab325.js",
     "static/js/2.57aafa64.chunk.js",
-    "static/css/main.dd0e6258.chunk.css",
+    "static/css/main.1e02775f.chunk.css",
     "static/js/main.0903e057.chunk.js"
   ]
 }
