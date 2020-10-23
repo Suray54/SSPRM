@@ -1,5 +1,5 @@
 import React from "react";
-import banner from "./../../../../assets/back.jpg";
+import banner from "./../../../../assets/back.webp";
 const HeadingBannerAbout = () => {
   return (
     <div

@@ -1,7 +1,7 @@
 import React from "react";
 import "./1-about.styles.scss";
 import { Link } from "react-router-dom";
-import code from "./../../../../assets/about-section.jpg";
+import code from "./../../../../assets/about-section.webp";
 function AboutSection() {
   return (
     <div className="about-section">

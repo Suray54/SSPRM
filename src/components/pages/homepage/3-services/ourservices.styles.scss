@@ -1,0 +1,91 @@
+.services {
+  padding: 100px 8%;
+  width: 100%;
+  background-color: var(--background-color);
+
+  &__header {
+    padding: 30px 80px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2 {
+      font-size: 24px;
+      font-weight: 900;
+      text-transform: uppercase;
+      color: var(--color-grey);
+      margin-bottom: 60px;
+      position: relative;
+      &::before {
+        content: "";
+        bottom: -30px;
+        left: 50%;
+        width: 40%;
+        transform: translate(-50%, -50%);
+        border-bottom: 8px solid var(--secondary);
+        position: absolute;
+      }
+    }
+  }
+  &__details {
+    margin-top: 20px;
+    padding: 30px;
+    background-color: var(--color-white);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    transition: 0.5s;
+    &:hover {
+      transform: translateY(-30px);
+      color: var(--color-white);
+      background-color: var(--secondary);
+    }
+
+    &:hover .services__details--icon {
+      background-color: var(--color-white);
+      color: var(--secondary);
+    }
+    &:hover .services__details--link {
+      color: var(--color-white);
+      text-decoration: none;
+    }
+    &:hover .services__details--lorem {
+      color: var(--color-white);
+      opacity: 0.9;
+    }
+    &:hover .services__details--heading {
+      color: var(--color-white);
+    }
+
+    &--icon {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 55px;
+      width: 55px;
+      border-radius: 50%;
+      font-size: 26px;
+      color: var(--color-white);
+      background-color: var(--secondary);
+      box-shadow: 0 0.4rem 1rem rgba(black, 0.1);
+    }
+    h3 {
+      margin-top: 25px;
+      text-transform: capitalize;
+      font-weight: 500;
+    }
+    &--lorem {
+      margin-top: 10px;
+      font-size: 16px;
+      font-weight: 300;
+      color: var(--color-grey);
+    }
+    &--link {
+      font-size: 16px;
+      color: var(--secondary);
+      font-weight: 500;
+    }
+  }
+}

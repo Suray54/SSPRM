@@ -1,4 +1,44 @@
 .project-completed {
-  padding: 100px 8%;
+  padding: 50px 8%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
   background-color: var(--primary);
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  &__detail {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--color-white);
+    &--icon {
+      font-size: 60px;
+      color: var(--secondary);
+    }
+    h1 {
+      font-size: 50px;
+      font-weight: 900;
+      span {
+        &:not(:last-child) {
+          margin-right: 10px;
+        }
+      }
+    }
+    p {
+      text-transform: capitalize;
+      font-size: 16px;
+      font-weight: 700;
+    }
+  }
 }
