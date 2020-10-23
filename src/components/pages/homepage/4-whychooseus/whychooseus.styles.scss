@@ -1,0 +1,52 @@
+.whychooseus {
+  &__details {
+    padding: 60px 80px 60px 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    h2 {
+      font-size: 24px;
+      font-weight: 900;
+      text-transform: uppercase;
+      color: var(--color-grey);
+      margin-bottom: 60px;
+      position: relative;
+      &::before {
+        content: "";
+        bottom: -30px;
+        left: -20px;
+        width: 15%;
+        border-bottom: 8px solid var(--secondary);
+        position: absolute;
+      }
+    }
+
+    p {
+      font-size: 16px;
+      color: var(--color-grey);
+      font-weight: 300;
+      margin-bottom: 15px;
+    }
+
+    &--icon {
+      font-size: 30px;
+      color: var(--secondary);
+      margin-right: 5px;
+    }
+    ul {
+      li {
+        display: flex;
+        align-items: center;
+        font-size: 16px;
+        color: var(--color-grey);
+        font-weight: 300;
+      }
+    }
+  }
+  &__background {
+    background-size: cover;
+    background-position: center;
+    background-color: var(--primary);
+  }
+}

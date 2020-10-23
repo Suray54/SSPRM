@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import logo from "./../../../assets/SSPRM NEON-main.png";
+import logo from "./../../../assets/SSPRM NEON.png";
 import "./nav.styles.scss";
 import "./nav.js";
 
