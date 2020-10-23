@@ -21,9 +21,10 @@
   }
 
   &__details {
+    margin-top: 40px;
     padding: 0 20px;
     z-index: 1000;
-    width: 800px;
+    width: 900px;
     color: var(--color-white);
     h1 {
       @media only screen and (max-width: 650px) {
