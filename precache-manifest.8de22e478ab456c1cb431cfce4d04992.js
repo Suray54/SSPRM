@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41a49033dc1618778bb4e2157002f3e9",
+    "revision": "cb313f011299df89ebc7b99c0c031c4f",
     "url": "/SSPRM/index.html"
   },
   {
-    "revision": "50b074d8f5d4daac34fb",
-    "url": "/SSPRM/static/css/main.1e02775f.chunk.css"
+    "revision": "77696d5d789e0f003601",
+    "url": "/SSPRM/static/css/main.7bcc296b.chunk.css"
   },
   {
     "revision": "f3dea6f4ae2580ec66bd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SSPRM/static/js/2.57aafa64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50b074d8f5d4daac34fb",
+    "revision": "77696d5d789e0f003601",
     "url": "/SSPRM/static/js/main.0903e057.chunk.js"
   },
   {
