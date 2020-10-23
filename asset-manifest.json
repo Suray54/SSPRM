@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/SSPRM/static/css/main.c9674bbc.chunk.css",
-    "main.js": "/SSPRM/static/js/main.9f263be3.chunk.js",
-    "main.js.map": "/SSPRM/static/js/main.9f263be3.chunk.js.map",
+    "main.css": "/SSPRM/static/css/main.dd0e6258.chunk.css",
+    "main.js": "/SSPRM/static/js/main.0903e057.chunk.js",
+    "main.js.map": "/SSPRM/static/js/main.0903e057.chunk.js.map",
     "runtime-main.js": "/SSPRM/static/js/runtime-main.693ab325.js",
     "runtime-main.js.map": "/SSPRM/static/js/runtime-main.693ab325.js.map",
-    "static/js/2.9f7fe230.chunk.js": "/SSPRM/static/js/2.9f7fe230.chunk.js",
-    "static/js/2.9f7fe230.chunk.js.map": "/SSPRM/static/js/2.9f7fe230.chunk.js.map",
+    "static/js/2.57aafa64.chunk.js": "/SSPRM/static/js/2.57aafa64.chunk.js",
+    "static/js/2.57aafa64.chunk.js.map": "/SSPRM/static/js/2.57aafa64.chunk.js.map",
     "index.html": "/SSPRM/index.html",
-    "precache-manifest.5fb35e4193ffd2d622740282ad031420.js": "/SSPRM/precache-manifest.5fb35e4193ffd2d622740282ad031420.js",
+    "precache-manifest.67e9aa63cf81f322dcc9fd1e0ebc2c3c.js": "/SSPRM/precache-manifest.67e9aa63cf81f322dcc9fd1e0ebc2c3c.js",
     "service-worker.js": "/SSPRM/service-worker.js",
-    "static/css/main.c9674bbc.chunk.css.map": "/SSPRM/static/css/main.c9674bbc.chunk.css.map",
-    "static/js/2.9f7fe230.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.9f7fe230.chunk.js.LICENSE.txt",
+    "static/css/main.dd0e6258.chunk.css.map": "/SSPRM/static/css/main.dd0e6258.chunk.css.map",
+    "static/js/2.57aafa64.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.57aafa64.chunk.js.LICENSE.txt",
     "static/media/SSPRM NEON.png": "/SSPRM/static/media/SSPRM NEON.e9a55ec1.png",
     "static/media/about-section.webp": "/SSPRM/static/media/about-section.7ee555a3.webp",
-    "static/media/anup.jpg": "/SSPRM/static/media/anup.9a3bca2a.jpg",
     "static/media/back.webp": "/SSPRM/static/media/back.5f5060be.webp",
     "static/media/dark-back.webp": "/SSPRM/static/media/dark-back.083985ac.webp",
     "static/media/dark.webp": "/SSPRM/static/media/dark.e0025fa6.webp",
-    "static/media/developer.webp": "/SSPRM/static/media/developer.8fe0513b.webp",
-    "static/media/sushil.jpg": "/SSPRM/static/media/sushil.1feb5421.jpg"
+    "static/media/developer.webp": "/SSPRM/static/media/developer.8fe0513b.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.693ab325.js",
-    "static/js/2.9f7fe230.chunk.js",
-    "static/css/main.c9674bbc.chunk.css",
-    "static/js/main.9f263be3.chunk.js"
+    "static/js/2.57aafa64.chunk.js",
+    "static/css/main.dd0e6258.chunk.css",
+    "static/js/main.0903e057.chunk.js"
   ]
 }
