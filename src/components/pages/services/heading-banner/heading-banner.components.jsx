@@ -1,6 +1,6 @@
 import React from "react";
 import "./heading-banner.styles.scss";
-import banner from "./../../../../assets/back.jpg";
+import banner from "./../../../../assets/back.webp";
 const HeadingBannerServices = () => {
   return (
     <div

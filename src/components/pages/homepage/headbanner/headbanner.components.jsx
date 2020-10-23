@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./headbanner.styles.scss";
 import { Link } from "react-router-dom";
 import { FaAngleRight } from "react-icons/fa";
-import banner from "./../../../../assets/dark.jpg";
+import banner from "./../../../../assets/dark.webp";
 
 export class Headbanner extends Component {
   render() {
