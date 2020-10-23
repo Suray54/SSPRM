@@ -19,7 +19,7 @@ export class Homepage extends Component {
         <ProjectCompleted />
         <OurServices />
         <WhyChooseUs />
-        <Testimonials />
+
         <ContactBanner />
         <Footer />
       </div>
