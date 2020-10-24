@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/SSPRM/static/css/main.7bcc296b.chunk.css",
-    "main.js": "/SSPRM/static/js/main.0903e057.chunk.js",
-    "main.js.map": "/SSPRM/static/js/main.0903e057.chunk.js.map",
+    "main.css": "/SSPRM/static/css/main.b24d70cf.chunk.css",
+    "main.js": "/SSPRM/static/js/main.65f8b927.chunk.js",
+    "main.js.map": "/SSPRM/static/js/main.65f8b927.chunk.js.map",
     "runtime-main.js": "/SSPRM/static/js/runtime-main.693ab325.js",
     "runtime-main.js.map": "/SSPRM/static/js/runtime-main.693ab325.js.map",
-    "static/js/2.57aafa64.chunk.js": "/SSPRM/static/js/2.57aafa64.chunk.js",
-    "static/js/2.57aafa64.chunk.js.map": "/SSPRM/static/js/2.57aafa64.chunk.js.map",
+    "static/js/2.628dab7f.chunk.js": "/SSPRM/static/js/2.628dab7f.chunk.js",
+    "static/js/2.628dab7f.chunk.js.map": "/SSPRM/static/js/2.628dab7f.chunk.js.map",
     "index.html": "/SSPRM/index.html",
-    "precache-manifest.8de22e478ab456c1cb431cfce4d04992.js": "/SSPRM/precache-manifest.8de22e478ab456c1cb431cfce4d04992.js",
+    "precache-manifest.8ba6d1d1a4ea7a82aef3955ea0e5f287.js": "/SSPRM/precache-manifest.8ba6d1d1a4ea7a82aef3955ea0e5f287.js",
     "service-worker.js": "/SSPRM/service-worker.js",
-    "static/css/main.7bcc296b.chunk.css.map": "/SSPRM/static/css/main.7bcc296b.chunk.css.map",
-    "static/js/2.57aafa64.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.57aafa64.chunk.js.LICENSE.txt",
+    "static/css/main.b24d70cf.chunk.css.map": "/SSPRM/static/css/main.b24d70cf.chunk.css.map",
+    "static/js/2.628dab7f.chunk.js.LICENSE.txt": "/SSPRM/static/js/2.628dab7f.chunk.js.LICENSE.txt",
     "static/media/SSPRM NEON.png": "/SSPRM/static/media/SSPRM NEON.e9a55ec1.png",
     "static/media/about-section.webp": "/SSPRM/static/media/about-section.7ee555a3.webp",
+    "static/media/anup.jpg": "/SSPRM/static/media/anup.9a3bca2a.jpg",
     "static/media/back.webp": "/SSPRM/static/media/back.5f5060be.webp",
     "static/media/dark-back.webp": "/SSPRM/static/media/dark-back.083985ac.webp",
     "static/media/dark.webp": "/SSPRM/static/media/dark.e0025fa6.webp",
@@ -21,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.693ab325.js",
-    "static/js/2.57aafa64.chunk.js",
-    "static/css/main.7bcc296b.chunk.css",
-    "static/js/main.0903e057.chunk.js"
+    "static/js/2.628dab7f.chunk.js",
+    "static/css/main.b24d70cf.chunk.css",
+    "static/js/main.65f8b927.chunk.js"
   ]
 }
